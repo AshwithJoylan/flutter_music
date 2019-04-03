@@ -1,0 +1,5 @@
+litepink 0xfffeded8
+pinklildark 0xfff3b19d
+orangered 0xfffb582f
+orange 0xfffa6003
+red 0xfff01605

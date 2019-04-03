@@ -7,6 +7,9 @@ A new Flutter project.
 - Swipe to change songs
 - Gradient Seek Bar
 
+### UI Desiggned by Khalid Hasan Zibon
+<a href="https://dribbble.com/shots/4735755-Google-Play-Music-Redesign">Go Here</a>
+
 ## Screens
 
 <p align="center">
